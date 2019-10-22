@@ -9,4 +9,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   
 
+  p2(){
+    console.log("P2 changes");
+  }
 }
