@@ -10,6 +10,6 @@ export class AppComponent {
   
 
   p2(){
-    console.log("P2 changes");
+    console.log("Person 2 changes");
   }
 }
