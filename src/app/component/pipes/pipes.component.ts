@@ -6,7 +6,7 @@ import { Robot } from '../../model/robot';
   templateUrl: './pipes.component.html',
   styleUrls: ['./pipes.component.css']
 }) 
-export class PipesComponent implements OnInit {
+export class PipesComponent implements OnInit { 
 
   name = '';
   countryName = "";
