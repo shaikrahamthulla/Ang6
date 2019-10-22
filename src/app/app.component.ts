@@ -11,5 +11,6 @@ export class AppComponent {
 
   p2(){
     console.log("Person 2 changes");
+    console.log("one");
   }
 }
