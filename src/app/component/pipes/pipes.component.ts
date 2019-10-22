@@ -12,6 +12,7 @@ export class PipesComponent implements OnInit {
   countryName = "";
 
   robot = new Robot(1, "shaik", "java");
+  
 
   constructor() { }
 
